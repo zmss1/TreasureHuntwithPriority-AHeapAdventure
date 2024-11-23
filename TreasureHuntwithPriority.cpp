@@ -94,7 +94,7 @@ void toggleHeapType(vector<int>& heap, bool& isMaxHeap) {
 
 // Main Treasure Hunt menu
 void treasureHuntWithPriority() {
-    cout << "\n===========================| ✨ Welcome to the Treasure Hunt with Priority! ✨ |===========================\n" << endl;
+    cout << "\n==========================| ✨ Welcome to the Treasure Hunt with Priority! ✨ |==========================\n" << endl;
     cout << "In this adventure, treasures have priority levels, and you must manage their retrieval using heaps." << endl;
 
     vector<int> heap; // Vector to store the heap elements
